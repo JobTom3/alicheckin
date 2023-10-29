@@ -7,7 +7,7 @@
 - 2023/05/17： 增加自动领取签到奖励，显示本月签到次数
 
 
-# 如何使用？ 
+# 如何使用？  
 1. Fork项目到自己的仓库
 2. 点击Settings -> 点击选项卡 Secrets and variables -> 点击Actions -> New repository secret
 
