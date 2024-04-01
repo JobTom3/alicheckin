@@ -14,7 +14,6 @@
 1. Fork项目到自己的仓库
 2. 点击Settings -> 点击选项卡 Secrets and variables -> 点击Actions -> New repository secret
 
-
     | Name   | Secret                           |
     | ------ | ------------------------------- |
     | TOKEN *   | 阿里云盘Token 可以添加多个用英文逗号(,)分割 无需空格  |
